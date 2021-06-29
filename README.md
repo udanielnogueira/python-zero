@@ -1,2 +1,2 @@
 # pythonzero
-My first contact with Python based on my University classes
+My first contact with Python based on my university classes.
