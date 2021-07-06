@@ -13,6 +13,6 @@ av2=float(input('Nota av2: '))
 
 media=(av1+av2)/2
 
-print('Sua média foi ', media)
+print('Média:', media)
 
 
