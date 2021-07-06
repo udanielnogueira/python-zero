@@ -12,7 +12,7 @@ av1=float(input('Nota av1: '))
 av2=float(input('Nota av2: '))
 
 media=(av1+av2)/2
-print('Média:', media)
+print('Média final:', media)
 
 if media>=5:
 	print('Aprovado')#identado, entao pertence ao if
