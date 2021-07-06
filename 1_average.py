@@ -14,5 +14,3 @@ av2=float(input('Nota av2: '))
 media=(av1+av2)/2
 
 print('Média final:', media)
-
-

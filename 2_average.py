@@ -21,3 +21,4 @@ if media>=5:
 else:
 	print('Reprovado')
 	print('Estude mais')
+	
