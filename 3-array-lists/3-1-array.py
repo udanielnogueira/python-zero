@@ -35,4 +35,3 @@ leitura funciona da esquerda para a direita
 do mais negativo para o menos negativo
 
 '''
-
