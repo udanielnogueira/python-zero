@@ -1,3 +1,3 @@
 # Python Zero
 
-🐍 Python baseado nas aulas da Universidade.
+🐍 Programas que desenvolvi em Python nas aulas da Universidade.
