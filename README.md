@@ -1,2 +1,3 @@
 # Python Zero
-Python based on my university classes.
+
+Aulas de Python na Graduação de ADS.
