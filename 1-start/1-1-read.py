@@ -8,10 +8,12 @@ Based on: EIN420 Unity 1
 
 '''
 
-funcao='Estudante'
-nome='Daniel Nogueira'
+funcao = 'Estudante'
+nome = 'Daniel Nogueira'
+
 print(funcao, nome)
 
-curso=input('Digite o seu curso: ')
+curso = input('Digite o seu curso: ')
+
 print('Olá,', nome)
 print('Bem vindo ao curso de', curso)

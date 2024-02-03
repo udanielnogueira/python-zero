@@ -19,7 +19,7 @@ for i in range(2):
 		print(i,k)
 print('\n')
 
-contador=7
-while contador<=10:
+contador = 7
+while contador <= 10:
 	print('contador =', contador)
-	contador+=1
+	contador += 1
