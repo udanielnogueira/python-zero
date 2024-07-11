@@ -1,3 +1,3 @@
 # Python Zero
 
-🐍 Programas que desenvolvi em Python nas aulas da Universidade.
+Estudo de Python nas aulas da Graduação de Análise e Desenvolvimento de Sistemas.
