@@ -29,9 +29,7 @@ for x in lista2:
 	print(x + 10)
 
 '''
-
 [-2:-5] não funciona
 leitura funciona da esquerda para a direita
 do mais negativo para o menos negativo
-
 '''
